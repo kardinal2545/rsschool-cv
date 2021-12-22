@@ -29,5 +29,5 @@ https://lms.beetroot.academy/diploma/ckhjiah002vxh0736jkw0rfow
 
 ## RS School
 https://rs.school
-/december 2021 JS / FRONT-END. STAGE 0
+/december 2021 JS / front-end. stage 0
 =============================================================================
