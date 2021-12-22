@@ -6,6 +6,7 @@
 ## Contacts
 tel: +380984274277
 email: kravets_ruslan@ukr.net
+gitHub: kardinal2545
 ============================================================================
 
 ## Tech Skils
