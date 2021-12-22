@@ -19,11 +19,15 @@ JS
 
 ## Sample code
 https://kardinal2545.github.io/Beetroot_Ruslan//Exam3/index.html
-https://kardinal2545.github.io/gavrilets/Gavrilets/index.html
+
 ============================================================================
 
 ## Education
 beetroot.academy
 /december 2020 - april 2021/
 https://lms.beetroot.academy/diploma/ckhjiah002vxh0736jkw0rfow
+
+## RS School
+https://rs.school
+/december 2021 JS / FRONT-END. STAGE 0
 =============================================================================
