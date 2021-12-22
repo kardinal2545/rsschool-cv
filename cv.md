@@ -1,4 +1,4 @@
-# rsschool-cv
+# rsschool-cv / front-end. stage 0
 ============================================================================
  
 ## Ruslan Kravets
