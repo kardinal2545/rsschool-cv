@@ -12,7 +12,7 @@ body {
     display: flex;
 }
 .sidebar {
-    background: #061b01;
+    background: #3eafe4;
     width: 370px;
     padding-top: 40px;
     padding-bottom: 40px;
@@ -109,3 +109,25 @@ body {
 .soft-skill-text {
     color: #d8dadd;   
 }
+footer{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 16px;
+
+}
+.school{
+   
+   
+   /* margin-top: 10px;
+   margin-left: 45%;  */
+   
+}
+
+.schoolImg{
+    height: 30px;
+    margin-top: 10px;
+}
+.rsColor{
+    color: red;
+}
+
