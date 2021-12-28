@@ -88,17 +88,11 @@ h2 {
 }
 
 footer {
-  
   text-align: center;
   font-size: 16px;
   padding: 10px;
   max-width: 1024px;
   background-color: antiquewhite;
-  
-}
-.school {
-  /* margin-top: 10px;
-   margin-left: 45%;  */
 }
 
 .schoolImg {
@@ -111,7 +105,5 @@ footer {
 }
 
 .pre {
-   margin-left: -150px;
-
+  margin-left: -150px;
 }
-
